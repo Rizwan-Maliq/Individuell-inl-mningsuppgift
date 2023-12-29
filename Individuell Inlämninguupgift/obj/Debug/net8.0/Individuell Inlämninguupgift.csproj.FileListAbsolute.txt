@@ -1,0 +1,14 @@
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\bin\Debug\net8.0\Individuell Inlämninguupgift.exe
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\bin\Debug\net8.0\Individuell Inlämninguupgift.deps.json
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\bin\Debug\net8.0\Individuell Inlämninguupgift.runtimeconfig.json
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\bin\Debug\net8.0\Individuell Inlämninguupgift.dll
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\bin\Debug\net8.0\Individuell Inlämninguupgift.pdb
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\Individuell Inlämninguupgift.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\Individuell Inlämninguupgift.AssemblyInfoInputs.cache
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\Individuell Inlämninguupgift.AssemblyInfo.cs
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\Individuell Inlämninguupgift.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\Individuell Inlämninguupgift.dll
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\refint\Individuell Inlämninguupgift.dll
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\Individuell Inlämninguupgift.pdb
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\Individuell Inlämninguupgift.genruntimeconfig.cache
+D:\Webbutvecklare utbildning\C sharp\Individuell Inlämningsuppgift Betyggruddande uppgift\Individuell Inlämninguupgift\Individuell Inlämninguupgift\obj\Debug\net8.0\ref\Individuell Inlämninguupgift.dll
